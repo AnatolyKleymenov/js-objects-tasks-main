@@ -1,5 +1,5 @@
 // BEGIN
-export default returnObject = () =>{
+export default returnObject = () => {
     const example = {
         files: ['src/objects.js'],
         config:true,
